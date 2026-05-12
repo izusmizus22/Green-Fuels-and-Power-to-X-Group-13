@@ -12,7 +12,7 @@ function calculate_set_based_h2_lcof(;
     electrolyzer_cf = 0.5,        # 50% operating rate
     
     # --- BY-PRODUCT REVENUE (OXYGEN) ---
-    mass_ratio_o2_h2 = 4.88,         # kg of O2 produced per kg of H2
+    mass_ratio_o2_h2 = 7.94,         # kg of O2 produced per kg of H2
     price_o2_per_kg = 0.15,       # https://www.imarcgroup.com/oxygen-pricing-report
     
     # --- SHIP BASELINE DEMAND INPUTS ---
